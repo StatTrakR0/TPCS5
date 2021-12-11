@@ -1,0 +1,45 @@
+PCAD Importer Log
+Project : Lab03.PrjPcb
+
+Section : C:\Users\StatTrak\Desktop\pcad\Lab03.SCH
+    Section : Parsing Messages
+        Warning - 1 : Skipping Token defaultPinDes On Line 88
+        Warning - 1 : Skipping Token defaultPinDes On Line 95
+        Warning - 1 : Skipping Token defaultPinDes On Line 102
+        Warning - 1 : Skipping Token defaultPinDes On Line 109
+        Warning - 1 : Skipping Token defaultPinDes On Line 131
+        Warning - 1 : Skipping Token defaultPinDes On Line 138
+        Warning - 1 : Skipping Token defaultPinDes On Line 145
+        Warning - 1 : Skipping Token defaultPinDes On Line 152
+        Warning - 1 : Skipping Token defaultPinDes On Line 159
+        Warning - 1 : Skipping Token defaultPinDes On Line 181
+        Warning - 1 : Skipping Token defaultPinDes On Line 189
+        Warning - 1 : Skipping Token defaultPinDes On Line 212
+        Warning - 1 : Skipping Token defaultPinDes On Line 219
+        Warning - 1 : Skipping Token defaultPinDes On Line 239
+        Warning - 1 : Skipping Token defaultPinDes On Line 246
+        Warning - 1 : Skipping Token gridDfns On Line 449
+        Warning - 1 : Skipping Token refPointSize On Line 457
+        Warning - 1 : Skipping Token infoPointSize On Line 458
+        Warning - 1 : Skipping Token junctionSize On Line 459
+        Warning - 1 : Skipping Token refPointSizePrint On Line 460
+        Warning - 1 : Skipping Token infoPointSizePrint On Line 461
+        Warning - 1 : Skipping Token junctionSizePrint On Line 462
+        Warning - 1 : Skipping Token n On Line 471
+        Warning - 1 : Skipping Token  On Line 471
+        Warning - 1 : Skipping Token PrintRegion On Line 523
+        Warning - 1 : Skipping Token schematicPrintSettings On Line 525
+        Warning - 1 : Skipping Token ecoState On Line 540
+        Warning - 1 : Skipping Token currentTextStyle On Line 541
+        Warning - 1 : Skipping Token reportSettings On Line 544
+    EndSection
+
+    Section : Generating SCH Library - Lab03.SchLib
+    EndSection
+
+    Section : Generating SCH Sheet - Sheet1.SCHDOC
+    EndSection
+
+    Section : Analyzing SCH Sheet - Sheet1.SCHDOC
+    EndSection
+EndSection

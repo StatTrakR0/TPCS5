@@ -1,0 +1,166 @@
+PCAD Importer Log
+Project : Microfon.LibPkg
+
+Section : C:\Users\StatTrak\Desktop\pcad\PCAD-Libs\Microfon.lib
+    Section : PCB Library - Microfon.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token defaultPinDes On Line 467
+            Warning - 1 : Skipping Token defaultPinDes On Line 468
+            Warning - 1 : Skipping Token defaultPinDes On Line 527
+            Warning - 1 : Skipping Token defaultPinDes On Line 528
+            Warning - 1 : Skipping Token defaultPinDes On Line 556
+            Warning - 1 : Skipping Token defaultPinDes On Line 557
+            Warning - 1 : Skipping Token defaultPinDes On Line 558
+            Warning - 1 : Skipping Token defaultPinDes On Line 598
+            Warning - 1 : Skipping Token defaultPinDes On Line 599
+            Warning - 1 : Skipping Token defaultPinDes On Line 626
+            Warning - 1 : Skipping Token defaultPinDes On Line 627
+            Warning - 1 : Skipping Token defaultPinDes On Line 665
+            Warning - 1 : Skipping Token defaultPinDes On Line 666
+            Warning - 1 : Skipping Token defaultPinDes On Line 692
+            Warning - 1 : Skipping Token defaultPinDes On Line 693
+            Warning - 1 : Skipping Token defaultPinDes On Line 719
+            Warning - 1 : Skipping Token defaultPinDes On Line 720
+            Warning - 1 : Skipping Token defaultPinDes On Line 743
+            Warning - 1 : Skipping Token defaultPinDes On Line 744
+            Warning - 1 : Skipping Token defaultPinDes On Line 770
+            Warning - 1 : Skipping Token defaultPinDes On Line 771
+            Warning - 1 : Skipping Token defaultPinDes On Line 804
+            Warning - 1 : Skipping Token defaultPinDes On Line 805
+            Warning - 1 : Skipping Token defaultPinDes On Line 806
+            Warning - 1 : Skipping Token defaultPinDes On Line 807
+            Warning - 1 : Skipping Token defaultPinDes On Line 808
+            Warning - 1 : Skipping Token defaultPinDes On Line 809
+            Warning - 1 : Skipping Token defaultPinDes On Line 810
+            Warning - 1 : Skipping Token defaultPinDes On Line 938
+            Warning - 1 : Skipping Token defaultPinDes On Line 939
+            Warning - 1 : Skipping Token defaultPinDes On Line 979
+            Warning - 1 : Skipping Token defaultPinDes On Line 980
+            Warning - 1 : Skipping Token defaultPinDes On Line 1008
+            Warning - 1 : Skipping Token defaultPinDes On Line 1009
+            Warning - 1 : Skipping Token defaultPinDes On Line 1031
+            Warning - 1 : Skipping Token defaultPinDes On Line 1032
+            Warning - 1 : Skipping Token ADMP504 On Line 1052
+            Warning - 1 : Skipping Token DINAMIK On Line 1089
+            Warning - 1 : Skipping Token IZLUCHATEL On Line 1121
+            Warning - 1 : Skipping Token MICROFON-1 On Line 1161
+            Warning - 1 : Skipping Token SCS On Line 1186
+            Warning - 1 : Skipping Token attachedSymbol On Line 1235
+            Warning - 1 : Skipping Token attachedSymbol On Line 1260
+            Warning - 1 : Skipping Token attachedSymbol On Line 1282
+            Warning - 1 : Skipping Token attachedSymbol On Line 1304
+            Warning - 1 : Skipping Token attachedSymbol On Line 1325
+            Warning - 1 : Skipping Token attachedSymbol On Line 1346
+            Warning - 1 : Skipping Token attachedSymbol On Line 1367
+            Warning - 1 : Skipping Token attachedSymbol On Line 1388
+            Warning - 1 : Skipping Token attachedSymbol On Line 1409
+            Warning - 1 : Skipping Token attachedSymbol On Line 1430
+            Warning - 1 : Skipping Token attachedSymbol On Line 1451
+            Warning - 1 : Skipping Token attachedSymbol On Line 1471
+            Warning - 1 : Skipping Token attachedSymbol On Line 1497
+            Warning - 1 : Skipping Token attachedSymbol On Line 1523
+            Warning - 1 : Skipping Token attachedSymbol On Line 1543
+            Warning - 1 : Skipping Token attachedSymbol On Line 1564
+            Warning - 1 : Skipping Token attachedSymbol On Line 1585
+            Warning - 1 : Skipping Token attachedSymbol On Line 1605
+            Warning - 1 : Skipping Token attachedSymbol On Line 1626
+        EndSection
+
+        Section : Import Messages
+            Warning : Ellipse solder shape converted to solid region
+            Warning : Ellipse solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+        EndSection
+    EndSection
+
+    Section : SCH Library - Microfon.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 13
+            Warning - 1 : Skipping Token padStyleDef On Line 23
+            Warning - 1 : Skipping Token padStyleDef On Line 33
+            Warning - 1 : Skipping Token padStyleDef On Line 43
+            Warning - 1 : Skipping Token padStyleDef On Line 53
+            Warning - 1 : Skipping Token padStyleDef On Line 64
+            Warning - 1 : Skipping Token padStyleDef On Line 76
+            Warning - 1 : Skipping Token padStyleDef On Line 88
+            Warning - 1 : Skipping Token padStyleDef On Line 100
+            Warning - 1 : Skipping Token padStyleDef On Line 110
+            Warning - 1 : Skipping Token padStyleDef On Line 120
+            Warning - 1 : Skipping Token padStyleDef On Line 130
+            Warning - 1 : Skipping Token padStyleDef On Line 140
+            Warning - 1 : Skipping Token padStyleDef On Line 150
+            Warning - 1 : Skipping Token padStyleDef On Line 161
+            Warning - 1 : Skipping Token padStyleDef On Line 172
+            Warning - 1 : Skipping Token padStyleDef On Line 183
+            Warning - 1 : Skipping Token padStyleDef On Line 194
+            Warning - 1 : Skipping Token viaStyleDef On Line 205
+            Warning - 1 : Skipping Token multiLayer On Line 466
+            Warning - 1 : Skipping Token layerContents On Line 474
+            Warning - 1 : Skipping Token layerContents On Line 477
+            Warning - 1 : Skipping Token layerContents On Line 495
+            Warning - 1 : Skipping Token multiLayer On Line 526
+            Warning - 1 : Skipping Token layerContents On Line 530
+            Warning - 1 : Skipping Token layerContents On Line 540
+            Warning - 1 : Skipping Token multiLayer On Line 554
+            Warning - 1 : Skipping Token layerContents On Line 562
+            Warning - 1 : Skipping Token layerContents On Line 565
+            Warning - 1 : Skipping Token layerContents On Line 568
+            Warning - 1 : Skipping Token layerContents On Line 579
+            Warning - 1 : Skipping Token layerContents On Line 582
+            Warning - 1 : Skipping Token multiLayer On Line 597
+            Warning - 1 : Skipping Token layerContents On Line 601
+            Warning - 1 : Skipping Token layerContents On Line 611
+            Warning - 1 : Skipping Token multiLayer On Line 625
+            Warning - 1 : Skipping Token layerContents On Line 629
+            Warning - 1 : Skipping Token layerContents On Line 643
+            Warning - 1 : Skipping Token multiLayer On Line 664
+            Warning - 1 : Skipping Token layerContents On Line 668
+            Warning - 1 : Skipping Token layerContents On Line 677
+            Warning - 1 : Skipping Token multiLayer On Line 691
+            Warning - 1 : Skipping Token layerContents On Line 695
+            Warning - 1 : Skipping Token layerContents On Line 704
+            Warning - 1 : Skipping Token multiLayer On Line 718
+            Warning - 1 : Skipping Token layerContents On Line 722
+            Warning - 1 : Skipping Token layerContents On Line 730
+            Warning - 1 : Skipping Token multiLayer On Line 742
+            Warning - 1 : Skipping Token layerContents On Line 746
+            Warning - 1 : Skipping Token layerContents On Line 755
+            Warning - 1 : Skipping Token multiLayer On Line 769
+            Warning - 1 : Skipping Token layerContents On Line 773
+            Warning - 1 : Skipping Token layerContents On Line 782
+            Warning - 1 : Skipping Token multiLayer On Line 803
+            Warning - 1 : Skipping Token layerContents On Line 812
+            Warning - 1 : Skipping Token layerContents On Line 833
+            Warning - 1 : Skipping Token multiLayer On Line 879
+            Warning - 1 : Skipping Token layerContents On Line 883
+            Warning - 1 : Skipping Token layerContents On Line 894
+            Warning - 1 : Skipping Token multiLayer On Line 937
+            Warning - 1 : Skipping Token layerContents On Line 943
+            Warning - 1 : Skipping Token layerContents On Line 958
+            Warning - 1 : Skipping Token multiLayer On Line 978
+            Warning - 1 : Skipping Token layerContents On Line 983
+            Warning - 1 : Skipping Token layerContents On Line 996
+            Warning - 1 : Skipping Token multiLayer On Line 1007
+            Warning - 1 : Skipping Token layerContents On Line 1011
+            Warning - 1 : Skipping Token layerContents On Line 1018
+            Warning - 1 : Skipping Token multiLayer On Line 1030
+            Warning - 1 : Skipping Token layerContents On Line 1034
+            Warning - 1 : Skipping Token layerContents On Line 1044
+            Warning - 1 : Skipping Token defaultPinDes On Line 1060
+            Warning - 1 : Skipping Token defaultPinDes On Line 1068
+            Warning - 1 : Skipping Token defaultPinDes On Line 1076
+            Warning - 1 : Skipping Token defaultPinDes On Line 1097
+            Warning - 1 : Skipping Token defaultPinDes On Line 1105
+            Warning - 1 : Skipping Token defaultPinDes On Line 1129
+            Warning - 1 : Skipping Token defaultPinDes On Line 1137
+            Warning - 1 : Skipping Token defaultPinDes On Line 1169
+            Warning - 1 : Skipping Token defaultPinDes On Line 1177
+            Warning - 1 : Skipping Token defaultPinDes On Line 1194
+            Warning - 1 : Skipping Token defaultPinDes On Line 1202
+        EndSection
+
+        Section : Generating SCH Library - Microfon.SchLib
+        EndSection
+    EndSection
+EndSection

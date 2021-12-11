@@ -1,0 +1,62 @@
+PCAD Importer Log
+Project : Lab03.LibPkg
+
+Section : C:\Users\StatTrak\Desktop\pcad\Lab03.lib
+    Section : PCB Library - Lab03.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token DRV134 On Line 177
+            Warning - 1 : Skipping Token PA150 On Line 226
+            Warning - 1 : Skipping Token PU1 On Line 269
+            Warning - 1 : Skipping Token PU2 On Line 296
+            Warning - 1 : Skipping Token attachedSymbol On Line 337
+            Warning - 1 : Skipping Token attachedSymbol On Line 362
+            Warning - 1 : Skipping Token attachedSymbol On Line 386
+            Warning - 1 : Skipping Token attachedSymbol On Line 408
+            Warning - 1 : Skipping Token attachedSymbol On Line 428
+        EndSection
+
+        Section : Import Messages
+            Warning - 0 : PCAD Pattern Graphics [DRV134P][Primary] associated with PCAD Component [DRV134C] has been renamed to PCB FootPrint [DRV134P_DRV134C(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [PA150P][Primary] associated with PCAD Component [PA150] has been renamed to PCB FootPrint [PA150P_PA150(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [PA150P][Primary] associated with PCAD Component [PA150C] has been renamed to PCB FootPrint [PA150P_PA150C(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [PUP][Primary] associated with PCAD Component [PUC] has been renamed to PCB FootPrint [PUP_PUC(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [PUP2][Primary] associated with PCAD Component [PUC2] has been renamed to PCB FootPrint [PUP2_PUC2(Primary)].
+        EndSection
+    EndSection
+
+    Section : SCH Library - Lab03.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 13
+            Warning - 1 : Skipping Token viaStyleDef On Line 23
+            Warning - 1 : Skipping Token multiLayer On Line 61
+            Warning - 1 : Skipping Token layerContents On Line 71
+            Warning - 1 : Skipping Token multiLayer On Line 95
+            Warning - 1 : Skipping Token layerContents On Line 101
+            Warning - 1 : Skipping Token multiLayer On Line 127
+            Warning - 1 : Skipping Token layerContents On Line 131
+            Warning - 1 : Skipping Token multiLayer On Line 155
+            Warning - 1 : Skipping Token layerContents On Line 159
+            Warning - 1 : Skipping Token defaultPinDes On Line 184
+            Warning - 1 : Skipping Token defaultPinDes On Line 191
+            Warning - 1 : Skipping Token defaultPinDes On Line 198
+            Warning - 1 : Skipping Token defaultPinDes On Line 205
+            Warning - 1 : Skipping Token defaultPinDes On Line 212
+            Warning - 1 : Skipping Token defaultPinDes On Line 233
+            Warning - 1 : Skipping Token defaultPinDes On Line 240
+            Warning - 1 : Skipping Token defaultPinDes On Line 247
+            Warning - 1 : Skipping Token defaultPinDes On Line 254
+            Warning - 1 : Skipping Token defaultPinDes On Line 276
+            Warning - 1 : Skipping Token defaultPinDes On Line 283
+            Warning - 1 : Skipping Token defaultPinDes On Line 303
+            Warning - 1 : Skipping Token defaultPinDes On Line 310
+        EndSection
+
+        Section : Generating SCH Library - Lab03.SchLib
+            Warning - 0 : PCAD Pattern Graphics [DRV134P][Primary] associated with PCAD Component [DRV134C] has been renamed to PCB FootPrint [DRV134P_DRV134C(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [PA150P][Primary] associated with PCAD Component [PA150] has been renamed to PCB FootPrint [PA150P_PA150(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [PA150P][Primary] associated with PCAD Component [PA150C] has been renamed to PCB FootPrint [PA150P_PA150C(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [PUP][Primary] associated with PCAD Component [PUC] has been renamed to PCB FootPrint [PUP_PUC(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [PUP2][Primary] associated with PCAD Component [PUC2] has been renamed to PCB FootPrint [PUP2_PUC2(Primary)].
+        EndSection
+    EndSection
+EndSection
